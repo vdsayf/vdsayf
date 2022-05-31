@@ -1,4 +1,5 @@
-### Welcome to my github!!! 👋
+### Welcome to Victor Dai's github 👋
+## Programming, AI, Data Science and Projects
 
  <img src="https://media4.giphy.com/media/XIqCQx02E1U9W/200.gif" alt = "kermit typing"> 
 - 🔭 I’m currently working on ... my portfolio!<br>
