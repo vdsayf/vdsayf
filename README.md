@@ -5,9 +5,9 @@
  
 ### Past stuff:
  
- Ludwig AI docs
- CogSci Creativity study at Kidd Labs
- Pacman AI projects
+ Ludwig AI docs<br>
+ CogSci Creativity study at Kidd Labs<br>
+ Pacman AI projects<br>
 
 ### Currently working on:
  "PUSH" card game in Godot game engine
