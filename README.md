@@ -16,3 +16,4 @@ AWS Machine Learning and Pytorch <br>
 - vdai@berkeley.edu
 - vdsayf@gmail.com<br>
 - (203) 252-9507
+- https://www.linkedin.com/in/victor-dai-b43930a9/
